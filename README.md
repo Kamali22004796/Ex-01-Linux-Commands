@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9bf3d4c1-caf0-414d-adee-310429d0b129)# Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
 # Name: kamali E
 # dept: cse - iot
