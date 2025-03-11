@@ -1,6 +1,7 @@
 # Ex-01-Linux-Commands
 
-
+# Name: kamali E
+# dept: cse - iot
 ## Aim:
 
 To study the execution of various Linux operating system commands.
@@ -22,6 +23,8 @@ All basic and advanced tasks can be done by executing commands. The commands are
 The ls command is used to display a list of content of a directory.
 
  Syntax: ls
+ 
+![image](https://github.com/user-attachments/assets/a6bd3756-6323-4efa-ac06-07cd864418ef)
 
 
 ### 2)	pwd Command
